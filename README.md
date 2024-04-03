@@ -132,6 +132,8 @@ b) Intercept: [-0.22101055]
 Dengan demikian, persamaan model untuk masalah ini adalah: 
 > Y = -0.02019491(age) + 0.56756264(sex) - 0.75586373(Chest_Pain ) + 0.45897328(Rest_BP ) + 0.11951092(Serum_Cholesterol ) - 0.25701509(Fasting_Blood_Sugar ) + 0.26884793(Rest_ECG ) - 0.43003966(Max_Heart) + 0.44812257(Exercise_Induced_Angina) + 0.3428912(Oldpeak) + 0.440473(Slope) + 1.07625574(Coronary_Arteries) + 0.52813531(Thalassemia) - 0.22101055
 
+![result](https://github.com/biloxedoz/Prediksi-Kemungkinan-AHD-/assets/136869989/c7761bfe-7a68-4482-82de-a204f3be7991)
+
 ## Evaluation 
 Setelah membangun model, evaluasi dilakukan untuk memastikan bahwa data yang digunakan cocok atau layak untuk digunakan sebagai dasar pembuatan model prediktif, dan model yang dihasilkan mampu melakukan prediksi dengan tingkat akurasi yang tinggi. Salah satu metode yang digunakan untuk evaluasi ini disebut 'score'.
 
@@ -146,6 +148,3 @@ Penggunaan metode 'score' dalam logistic regression sangat penting karena memban
 
 [2] Michael E. Makover, Michael D. Shapiro, Peter P. Toth,
 There is urgent need to treat atherosclerotic cardiovascular disease risk earlier, more intensively, and with greater precision: A review of current practice and recommendations for improved effectiveness, American Journal of Preventive Cardiology, Volume 12, 2022, 100371,
-
-![enlarge_bivariat](https://github.com/biloxedoz/Prediksi-Kemungkinan-AHD-/assets/136869989/3ac29752-c0ae-4ef7-a8dd-10765d5c1209)
-
