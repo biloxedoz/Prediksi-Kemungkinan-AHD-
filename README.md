@@ -24,6 +24,7 @@ Pengembangan penelitian ini memberikan sejumlah manfaat yang signifikan dalam ko
 
 ## Data Understanding
 Data yang digunakan dalam pembuatan model merupakan hasil dari generasi menggunakan perangkat lunak daring, di mana penentuan atribut-atribut didasarkan pada data yang diambil dari jurnal-jurnal terkait.
+URL : https://www.mockaroo.com/(https://www.mockaroo.com/)
 Berikut merupakan detail dari dataset yang digunakan untuk pembuatan model:
 - Dataset berupa Excel
 - Dataset terdiri dari 3030 records dengan 13 buah fitur yang diukur
