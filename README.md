@@ -70,8 +70,11 @@ Berdasarkan hasil analisis yang dilakukan, beberapa temuan dapat diidentifikasi 
 Gambar 2. Analisis Bivariat 
 
 Berdasarkan hasil analisis yang dilakukan, beberapa temuan dapat diidentifikasi sebagai berikut:
+
 • Pasien yang mengalami chest pain memiliki risiko lebih tinggi terkena Atherosclerotic Heart Disease (AHD), kecuali pada jenis non-anginal. Ini menandakan bahwa gejala chest pain, terutama pada jenis tertentu, dapat menjadi indikator penting dalam diagnosis AHD.
+
 • Ditemukan bahwa jumlah pasien yang terkena AHD cenderung lebih sedikit yang memiliki riwayat fasting blood sugar yang tinggi. Mayoritas pasien dengan kadar fasting blood sugar normal atau rendah, tidak terkena AHD. Hal ini menunjukkan bahwa kadar fasting blood sugar dapat menjadi faktor penentu dalam risiko terkena AHD.
+
 • Atribut-atribut sisanya dalam dataset menunjukkan distribusi data yang cukup merata antara pasien yang terkena AHD dan yang tidak terkena. Hal ini menandakan bahwa variasi atribut-atribut tersebut tidak secara signifikan terkait dengan keberadaan atau ketidakterkenaan AHD, dan mungkin memerlukan analisis lebih lanjut untuk memahami hubungannya dengan kondisi tersebut
 
 ## Data preparation 
